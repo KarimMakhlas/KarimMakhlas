@@ -20,8 +20,6 @@
 
 - 🎓 Final-year engineer (**M2**) at **ISEP Paris** — Data Engineering & AI, graduating **2027**
 - 🧠 Background in **CPGE MP** (maths & physics) before engineering school
-- 🔭 Currently building **Whybase** — a RAG-powered knowledge layer for teams (Slack/GitHub/Jira connectors, hybrid retrieval, multi-tenant SaaS)
-- 🛰️ Also shipping **MarketPulse AI**, **Recursio Chat**, and a real estate pricing pipeline on Airflow/Spark
 - 🎯 **Looking for a 6-month internship** in Data Engineering / AI Engineering — available ASAP, based in Paris
 - ♟️ Off-screen: chess, philosophy, lifting
 
