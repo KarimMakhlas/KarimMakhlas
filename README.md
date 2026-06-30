@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Abdelkarim%20Makhlas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%E2%80%94%20ISEP%20Paris&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://personal-portfolio-nu-gray-90.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+agents+%26+RAG+systems;LangGraph+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+pgvector;Currently+looking+for+a+6-month+internship;Paris+%C2%B7+Open+to+Data+%2F+AI+roles&font=Fira%20Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=22"/>
 </a>
+
+
+<br/><br/>
+ 
+![Profile views](https://komarev.com/ghpvc/?username=KarimMakhlas&color=58A6FF&style=flat-square&label=Profile+views)
+ 
+</div>
 
 <br/>
 
@@ -65,29 +70,12 @@
 
 <br/>
 
-### 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://personal-portfolio-nu-gray-90.vercel.app/projects/whybase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimMakhlas&repo=lab2-AdvancedProgramming&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-</a>
-<a href="https://personal-portfolio-nu-gray-90.vercel.app/projects/marketpulse-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KarimMakhlas&repo=lab3-AdvancedProgramming&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-</a>
-
-</div>
-
-> 💡 My flagship projects (**Whybase**, **MarketPulse AI**, **Recursio Chat**) live in private repos — see live details, architecture, and demos on my **[portfolio](https://personal-portfolio-nu-gray-90.vercel.app/projects)**.
-
-<br/>
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarimMakhlas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=KarimMakhlas&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://img.shields.io/github/stars/KarimMakhlas?style=for-the-badge&theme=dark&label=Stars&color=58A6FF"/>
+<img src="https://img.shields.io/github/followers/KarimMakhlas?style=for-the-badge&label=Followers&color=58A6FF"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimMakhlas&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
