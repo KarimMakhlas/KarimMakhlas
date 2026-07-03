@@ -77,7 +77,6 @@
 <img src="https://img.shields.io/github/stars/KarimMakhlas?style=for-the-badge&theme=dark&label=Stars&color=58A6FF"/>
 <img src="https://img.shields.io/github/followers/KarimMakhlas?style=for-the-badge&label=Followers&color=58A6FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimMakhlas&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
 
