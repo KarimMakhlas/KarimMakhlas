@@ -1,36 +1,48 @@
 <div align="center">
 
-<a href="https://personal-portfolio-nu-gray-90.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+agents+%26+RAG+systems;LangGraph+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+pgvector;Currently+looking+for+a+6-month+internship;Paris+%C2%B7+Open+to+Data+%2F+AI+roles&font=Fira%20Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=22"/>
+<a href="https://personal-portfolio-nu-gray-90.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Karim+Makhlas;Building+AI+agents+and+intelligent+systems;Turning+LLMs+into+production-ready+applications;Looking+for+a+6-month+AI+Engineering+internship+in+Paris"/>
 </a>
 
+<br/>
+
+**AI Engineering • Data Engineering • Backend Development**
+
+<br/>
+
+<a href="https://personal-portfolio-nu-gray-90.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://fr.linkedin.com/in/makhlaskarim">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:makhlasabdelkarim@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KarimMakhlas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
- 
-![Profile views](https://komarev.com/ghpvc/?username=KarimMakhlas&color=58A6FF&style=flat-square&label=Profile+views)
- 
-</div>
 
-<br/>
-
-<a href="https://personal-portfolio-nu-gray-90.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://fr.linkedin.com/in/makhlaskarim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:makhlasabdelkarim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+![](https://komarev.com/ghpvc/?username=KarimMakhlas&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-### 🧭 About me
+### About me
 
 - 🎓 Final-year engineer (**M2**) at **ISEP Paris** — Data Engineering & AI, graduating **2027**
 - 🧠 Background in **CPGE MP** (maths & physics) before engineering school
-- 🎯 **Looking for a 6-month internship** in Data Engineering / AI Engineering — available ASAP, based in Paris
 - ♟️ Off-screen: chess, philosophy, lifting
 
 <br/>
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -70,7 +82,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -92,9 +104,7 @@
 
 <div align="center">
 
-### 🤝 Let's connect
-
-Open to **Data Engineering**, **AI Engineering**, and **Backend/AI** roles · 6-month internship · Paris · Available ASAP
+### Let's connect
 
 <a href="https://personal-portfolio-nu-gray-90.vercel.app/contact"><img src="https://img.shields.io/badge/Get%20in%20touch-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 
