@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://personal-portfolio-nu-gray-90.vercel.app">
+<a href="https://ceo.axorialabs.com">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
